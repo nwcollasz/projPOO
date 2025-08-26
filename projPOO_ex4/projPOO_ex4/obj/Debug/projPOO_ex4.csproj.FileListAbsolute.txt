@@ -1,0 +1,7 @@
+C:\Users\Nicollas\source\repos\projPOO_ex4\projPOO_ex4\bin\Debug\projPOO_ex4.exe.config
+C:\Users\Nicollas\source\repos\projPOO_ex4\projPOO_ex4\bin\Debug\projPOO_ex4.exe
+C:\Users\Nicollas\source\repos\projPOO_ex4\projPOO_ex4\bin\Debug\projPOO_ex4.pdb
+C:\Users\Nicollas\source\repos\projPOO_ex4\projPOO_ex4\obj\Debug\projPOO_ex4.csproj.AssemblyReference.cache
+C:\Users\Nicollas\source\repos\projPOO_ex4\projPOO_ex4\obj\Debug\projPOO_ex4.csproj.CoreCompileInputs.cache
+C:\Users\Nicollas\source\repos\projPOO_ex4\projPOO_ex4\obj\Debug\projPOO_ex4.exe
+C:\Users\Nicollas\source\repos\projPOO_ex4\projPOO_ex4\obj\Debug\projPOO_ex4.pdb
