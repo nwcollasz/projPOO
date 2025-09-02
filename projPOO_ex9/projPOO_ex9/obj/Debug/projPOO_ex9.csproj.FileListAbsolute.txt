@@ -1,0 +1,3 @@
+C:\Users\aluno\source\repos\projPOO_ex9\projPOO_ex9\obj\Debug\projPOO_ex9.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\projPOO_ex9\projPOO_ex9\obj\Debug\projPOO_ex9.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\projPOO_ex9\projPOO_ex9\obj\Debug\projPOO_ex9.csproj.CoreCompileInputs.cache
